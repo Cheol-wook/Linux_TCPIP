@@ -1,0 +1,9 @@
+a.txt
+c.txt
+hello
+hello.c
+ls.txt
+main
+main.c
+name
+name.c
